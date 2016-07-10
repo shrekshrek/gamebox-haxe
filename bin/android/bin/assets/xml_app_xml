@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<app title="gamebox" >
+	<page id="index" src="com.shrek.gamebox.pages.IndexPage" depth="bottom" >
+		<page id="home" src="com.shrek.gamebox.pages.HomePage" />
+		<page id="nav" src="com.shrek.gamebox.pages.NavPage" depth="top" >
+			<page id="game1" src="com.shrek.gamebox.pages.Game1Page" />
+			<page id="game2" src="com.shrek.gamebox.pages.Game2Page" />
+			<page id="config" src="com.shrek.gamebox.pages.ConfigPage" />
+			<page id="about" src="com.shrek.gamebox.pages.AboutPage" />
+		</page>
+	</page>
+</app>

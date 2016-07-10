@@ -1,0 +1,17 @@
+HXCPP_ARMV7
+HXCPP_CLANG
+OBJC_ARC
+actuate
+cpp
+flashconnect
+haxe_208
+haxe_209
+haxe_210
+ios
+iphone
+nme
+nme_install_tool
+sys
+tilelayer
+true
+/usr/lib/haxe/lib/hxcpp/2,10/

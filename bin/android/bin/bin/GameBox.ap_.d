@@ -1,0 +1,19 @@
+/Users/shrek/Workspaces/fd-workspace/GameBox/bin/android/bin/bin/GameBox.ap_ \
+ : /Users/shrek/Workspaces/fd-workspace/GameBox/bin/android/bin/res/drawable-hdpi/icon.png \
+/Users/shrek/Workspaces/fd-workspace/GameBox/bin/android/bin/res/drawable-ldpi/icon.png \
+/Users/shrek/Workspaces/fd-workspace/GameBox/bin/android/bin/res/drawable-mdpi/icon.png \
+/Users/shrek/Workspaces/fd-workspace/GameBox/bin/android/bin/res/drawable-xhdpi/icon.png \
+/Users/shrek/Workspaces/fd-workspace/GameBox/bin/android/bin/res/drawable-xhdpi/ouya_icon.png \
+/Users/shrek/Workspaces/fd-workspace/GameBox/bin/android/bin/bin/res/drawable-hdpi/icon.png \
+/Users/shrek/Workspaces/fd-workspace/GameBox/bin/android/bin/bin/res/drawable-ldpi/icon.png \
+/Users/shrek/Workspaces/fd-workspace/GameBox/bin/android/bin/bin/res/drawable-mdpi/icon.png \
+/Users/shrek/Workspaces/fd-workspace/GameBox/bin/android/bin/bin/res/drawable-xhdpi/icon.png \
+/Users/shrek/Workspaces/fd-workspace/GameBox/bin/android/bin/bin/res/drawable-xhdpi/ouya_icon.png \
+/Users/shrek/Workspaces/fd-workspace/GameBox/bin/android/bin/assets/assets_fonts_nokiafc22_ttf \
+/Users/shrek/Workspaces/fd-workspace/GameBox/bin/android/bin/assets/fonts_nokiafc22_ttf \
+/Users/shrek/Workspaces/fd-workspace/GameBox/bin/android/bin/assets/images_game1_bullet_png \
+/Users/shrek/Workspaces/fd-workspace/GameBox/bin/android/bin/assets/images_game1_plane_png \
+/Users/shrek/Workspaces/fd-workspace/GameBox/bin/android/bin/assets/images_game2_iceman_iceman_png \
+/Users/shrek/Workspaces/fd-workspace/GameBox/bin/android/bin/assets/images_nav_bg_jpg \
+/Users/shrek/Workspaces/fd-workspace/GameBox/bin/android/bin/assets/xml_app_xml \
+/Users/shrek/Workspaces/fd-workspace/GameBox/bin/android/bin/bin/AndroidManifest.xml \
